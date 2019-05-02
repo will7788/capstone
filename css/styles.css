@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f4f9f4;
+}
+h1 {
+  margin: 0;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.625rem;
+  color: #5c8d89;
+}
+h2 {
+  color: #5c8d89;
+  font-family: 'Exo', sans-serif;
+}
+h3 {
+  color: #74b49b;
+  font-family: 'Exo', sans-serif;
+}
+h4 {
+  font-family: 'Exo', sans-serif;
+}
+p{
+  font-family: 'Exo', sans-serif;
+  color: #40514E;
+}
+
+a {
+  font-family: 'Exo', sans-serif;
+  color: #74b49b;
+}
+
+hr {
+    border: 7px dotted #40514E;
+    border-style: none none dotted;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.0);
+    width: 6rem;
+}
+
+
+/*********************CLASS SELECTORS*************************/
+
+.subtitle {
+  color: #5c8d89;
+  font-weight: normal;
+  font-size: 2.5rem;
+  padding-left: 150px;
+}
+
+.closing-brace {
+  padding-right: 320px;
+}
+
+.topcontainer {
+  background-color: #f4f9f4;
+  position: relative;
+  padding-top: 150px;
+}
+.middlecontainer {
+  background-color: white;
+  padding-bottom: 50px;
+}
+.bottomcontainer {
+  position: relative;
+  background-color: #F4F9F4;
+}
+
+.top-cloud {
+  height: 200px;
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  height: 200px;
+  position: absolute;
+  left: 300px;
+}
+.profile-pic {
+  height:300px;
+}
+
+.profile {
+  position: relative;
+  background-image: linear-gradient(#F4F9F4, white);
+}
+
+.profile p {
+  text-align: center;
+
+}
+
+.webdev-bubble {
+  width: 20%;
+  max-width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.java-bubble {
+  width: 20%;
+  max-width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.python-bubble {
+  width: 20%;
+  max-width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.mountain-pic {
+  margin-top: 100px;
+}
+.mail {
+  height: 50px;
+}
+
+.skills {
+  padding-top: 50px;
+}
+
+.skill-row {
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
