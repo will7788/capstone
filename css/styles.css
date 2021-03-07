@@ -137,3 +137,7 @@ hr {
   text-align: right;
   line-height: 2;
 }
+.resumecontainer {
+  margin:auto;
+  width: 70%;
+}
