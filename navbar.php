@@ -17,7 +17,8 @@
         </li>
       </ul>
       <span class="navbar-text">
-        UX done right.
+      <a class="nav-link" href="register.php">Register</a>
+      <a class="nav-link" href="login.php">Login</a>
       </span>
     </div>
   </div>

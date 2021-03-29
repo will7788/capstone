@@ -1,3 +1,4 @@
+/*********************element selectors*************************/
 body {
   margin: 0;
   text-align: center;
@@ -137,6 +138,7 @@ hr {
   text-align: right;
   line-height: 2;
 }
+
 .resumecontainer {
   margin:auto;
   width: 70%;
